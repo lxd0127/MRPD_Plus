@@ -1,6 +1,6 @@
 # MRPD+
 
-Code for **MRPD+: Semantic and Geometric Prompt Adaptation for Adversarially Robust 3D Point Cloud Recognition**.
+Code for **MRPD+: Structured Semantic Prompting and Geometry-Aware Adaptation for Adversarially Robust 3D Point Cloud Recognition**.
 
 MRPD+ combines discrete and continuous text prompts with Post-FPS Point Prompts (PFPP) and Post-FPS Geometric Reprogramming (PFGR). The implementation covers Uni3D and ULIP-2 on ModelNet40 and ScanObjectNN.
 
